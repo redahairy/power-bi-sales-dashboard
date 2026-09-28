@@ -62,11 +62,19 @@ The dashboard contains four pages designed to provide different views of the sal
 
 ### Page 1
 
+![Dashboard Page 1](Screenshots/dashboard-page-1.png)
+
 ### Page 2
+
+![Dashboard Page 2](Screenshots/dashboard-page-2.png)
 
 ### Page 3
 
+![Dashboard Page 3](Screenshots/dashboard-page-3.png)
+
 ### Page 4
+
+![Dashboard Page 4](Screenshots/dashboard-page-4.png)
 
 ---
 
